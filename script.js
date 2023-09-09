@@ -30,7 +30,7 @@ btn.addEventListener("click", () => {
     btn.classList.toggle("clicked")
     setImage()
     getQuote()
-    setTimeout(() => btn.classList.toggle("clicked"),0)
+    setTimeout(() => btn.classList.toggle("clicked"),500)
 
 })
 
