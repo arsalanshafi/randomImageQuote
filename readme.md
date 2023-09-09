@@ -1,6 +1,6 @@
-## This is a small project that generates a random image with a randomw quote on it 
+## This is a small project that generates a random image with a random quote on it 
 
-### It utilizes two apis for the image and qote
+### It utilizes two apis for the image and quote
 
 Image api
 <https://picsum.photos/500>
