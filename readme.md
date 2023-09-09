@@ -1,4 +1,4 @@
-# This is a small project that generates a random image with a randomw quote on it 
+## This is a small project that generates a random image with a randomw quote on it 
 
 ### It utilizes two apis for the image and qote
 
