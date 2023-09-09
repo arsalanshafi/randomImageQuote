@@ -1,0 +1,44 @@
+
+
+main{
+    width: 500px;
+    height: 500px;
+    margin: 50px auto;
+    box-shadow: 0px 0px 20px -5px;
+    padding: 20px;
+    border-radius: 20px;
+    box-sizing: border-box;
+}
+
+main p{
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    mix-blend-mode: difference;
+}
+
+button{
+    display: block;
+    margin: 50px auto;
+    background-color: aqua;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    border: 1px solid aqua;
+    border-radius: 50px;
+    box-shadow: 5px 5px;
+    transition:  0s;
+    cursor: pointer;
+
+}
+
+button:hover{
+    background-color: aquamarine;
+   
+}
+
+.clicked{
+    box-shadow: none;
+    transform: translate(5px);
+    transition: 400ms;
+}
